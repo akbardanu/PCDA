@@ -1,11 +1,12 @@
-# Welcome to your Jupyter Book
+# Welcome to my website!
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Hello, my name is Akbar Danu Yudhistira 210411100005, and welcome to my personal site! Here I use it as documentation for an assignment or project from class A in the digital image processing course.
 
-Check out the content pages bundled with this sample book to see more.
+I enjoyed studying the Digital image processing course and sharing what I learned with readers. Every article on this blog is created with the hope of providing benefits and inspiration to anyone who reads it.
+
+
+
+See digital image processing projects below
 
 ```{tableofcontents}
 ```
